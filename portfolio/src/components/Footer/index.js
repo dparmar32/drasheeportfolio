@@ -1,7 +1,9 @@
 import React from 'react';
-
+/**
+ * This function returns a footer with a list of icons
+ * @returns A footer with 3 icons.
+ */
 function Footer() {
-
     const icons = [
         {
             name: "fab fa-github",
@@ -16,7 +18,6 @@ function Footer() {
             link: "mailto:drashteeparmar@gmail.com"
         }
     ]
-
     return (
         <footer className="flex-row px-1">
             {icons.map(icon =>
@@ -25,10 +26,7 @@ function Footer() {
                         className={icon.name}></i></a>
                 )
             )}
-
         </footer>
-
     );
 }
-
 export default Footer;
