@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3c4af3da.css",
+    "main.js": "/static/js/main.391a6626.js",
+    "static/media/shozup.jpg": "/static/media/shozup.a2dfc903214fb82201f8.jpg",
+    "static/media/books.jpg": "/static/media/books.56e080eb671bcb302057.jpg",
+    "static/media/treak-stats.jpg": "/static/media/treak-stats.3ec9ce0bc29c055df5e8.jpg",
+    "static/media/Weather Dashboard.jpg": "/static/media/Weather Dashboard.64d25c28fd0a98bf6f41.jpg",
+    "static/media/drashtee_img.jpg": "/static/media/drashtee_img.47b693821e8dbb204f9f.jpg",
+    "static/media/quiz.jpg": "/static/media/quiz.28b6d19c8edc6b966d37.jpg",
+    "static/media/text-editor.jpg": "/static/media/text-editor.4007b7874dee05f38fd8.jpg",
+    "static/media/DRASHTEEPARMARRESUME.pdf": "/static/media/DRASHTEEPARMARRESUME.721d70a0cc5af64c3529.pdf",
+    "index.html": "/index.html",
+    "main.3c4af3da.css.map": "/static/css/main.3c4af3da.css.map",
+    "main.391a6626.js.map": "/static/js/main.391a6626.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c4af3da.css",
+    "static/js/main.391a6626.js"
+  ]
+}

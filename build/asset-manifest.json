@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/drasheeportfolio/static/css/main.b5bc3b21.css",
+    "main.js": "/drasheeportfolio/static/js/main.1ecd1300.js",
+    "static/media/shozup.jpg": "/drasheeportfolio/static/media/shozup.a2dfc903214fb82201f8.jpg",
+    "static/media/books.jpg": "/drasheeportfolio/static/media/books.56e080eb671bcb302057.jpg",
+    "static/media/treak-stats.jpg": "/drasheeportfolio/static/media/treak-stats.3ec9ce0bc29c055df5e8.jpg",
+    "static/media/Weather Dashboard.jpg": "/drasheeportfolio/static/media/Weather Dashboard.64d25c28fd0a98bf6f41.jpg",
+    "static/media/bootstrap-icons.woff?": "/drasheeportfolio/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
+    "static/media/drashtee_img.jpg": "/drasheeportfolio/static/media/drashtee_img.47b693821e8dbb204f9f.jpg",
+    "static/media/quiz.jpg": "/drasheeportfolio/static/media/quiz.28b6d19c8edc6b966d37.jpg",
+    "static/media/bootstrap-icons.woff2?": "/drasheeportfolio/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
+    "static/media/text-editor.jpg": "/drasheeportfolio/static/media/text-editor.4007b7874dee05f38fd8.jpg",
+    "static/media/DRASHTEEPARMARRESUME.pdf": "/drasheeportfolio/static/media/DRASHTEEPARMARRESUME.721d70a0cc5af64c3529.pdf",
+    "index.html": "/drasheeportfolio/index.html",
+    "main.b5bc3b21.css.map": "/drasheeportfolio/static/css/main.b5bc3b21.css.map",
+    "main.1ecd1300.js.map": "/drasheeportfolio/static/js/main.1ecd1300.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5bc3b21.css",
+    "static/js/main.1ecd1300.js"
+  ]
+}
